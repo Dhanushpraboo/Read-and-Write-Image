@@ -73,25 +73,25 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-![DIP1](1.jpg)
+![DIP1](1.png)
 
 ### ii)Write the image
-![DIP1](2.jpg)
+![DIP1](2.png)
 <br>
 <br>
 
 ### iii)Shape of the Image
-![DIP1](3.jpg)
+![DIP1](3.png)
 <br>
 <br>
 
 ### iv)Access rows and columns
-![DIP1](4.jpg)
+![DIP1](4.png)
 <br>
 <br>
 
 ### v)Cut and paste portion of image
-![DIP1](1.jpg)
+![DIP1](1.png)
 <br>
 <br>
 
